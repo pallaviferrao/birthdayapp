@@ -1,0 +1,151 @@
+.card {
+    width: 130px;
+    height: 195px;
+    background: url("http://www.toptipsclub.com/Images/page-img/keep-calm-and-prepare-for-a-test.png") no-repeat;
+    margin: 50px;
+}
+.card:hover {
+    background: url("http://www.toptipsclub.com/Images/page-img/keep-calm-and-prepare-for-a-test.png") no-repeat;
+}
+#check{
+    opacity: 0.5;
+  }
+  
+ 
+  #check1{
+    opacity: 0;
+  }
+  
+  #check1:hover {
+    opacity: 0.5;
+  }
+  #check2{
+    opacity: 0;
+  }
+  
+  #check2:hover {
+    opacity: 0.5;
+  }
+  #check3{
+    opacity: 0;
+  }
+  
+  #check3:hover {
+    opacity: 0.5;
+  }
+
+  .centertext {
+    height: 200px;
+    width: 400px;
+    /* background: black; */
+
+    position: fixed;
+    top: 50%;
+    left: 60%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+  /* .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url('scene.jpg');
+    overflow: hidden;
+    width: 0%;
+    height: 10%;
+    transition: .3s ease;
+  }
+ 
+  .container:hover .overlay {
+    width: 10%;
+  } */
+
+  .cc{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 20px;
+}
+.box{
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    background-image: url('scene.jpg');
+    top: 0;
+    left: 0;
+    opacity: 0;  /* for demo purpose  */
+    transition: 0ms 500ms;
+}
+.box:hover{
+    opacity: 1;
+    transition: 0s ;
+}
+.stack-top{
+    z-index: 9;
+    background-image: url('scene.jpg');
+    opacity: 0; 
+    margin: 20px; /* for demo purpose  */
+    transition: 0ms 500ms;
+}
+.stack-top:hover{
+    opacity: 1;
+    transition: 0s ;
+}
+  .overlay2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url('scene.jpg');
+    overflow: hidden;
+    width: 0%;
+    height: 10%;
+    transition: .5s ease;
+  }
+ 
+  .container2:hover .overlay2 {
+    width: 10%;
+  }
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+  }
+
+  .cc4{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 90px;
+}
+.box4{
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    background-image: url('scene.jpg');
+    top: 50;
+    left: 50;
+    opacity: 0;  /* for demo purpose  */
+    transition: 0ms 500ms;
+}
+.box4:hover{
+    opacity: 1;
+    transition: 0s ;
+}
+.stack-top4{
+    z-index: 9;
+    background-image: url('scene.jpg');
+    opacity: 0; 
+    margin: 90px; /* for demo purpose  */
+    transition: 0ms 500ms;
+}
+.stack-top4:hover{
+    opacity: 1;
+    transition: 0s }
