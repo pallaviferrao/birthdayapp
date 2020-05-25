@@ -15,7 +15,7 @@ class FirstPage extends React.Component{
        
         return(<div class="back">
             <body>
-            
+       
             </body>
          </div>)
     }
