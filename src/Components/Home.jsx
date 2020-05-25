@@ -1,6 +1,9 @@
 import React from 'react';
 import FirstPage from './FirstPage.jsx';
 import PeopleSpeak from './PeopleSpeak.jsx';
+import Journey from './Journey.jsx';
+import Football from './Football.jsx';
+import Trips from './Trips.jsx';
 import { makeStyles, withStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Paper from '@material-ui/core/Paper';
@@ -123,10 +126,11 @@ function TabPanel(props) {
       <div className={classes.demo1}>
       
         <AntTabs value={value} onChange={handleChange} aria-label="ant example">
-          <AntTab label="Photos" />
-          <AntTab label="What  Everyone has to say" />
-          <AntTab label="Quiz" />
+          <AntTab label="Happy Birthdayyyyy!" />
+          <AntTab label="Shared Moments" />
+          <AntTab label="Office" />
           <AntTab label="Football" />
+          <AntTab label="Trips" />
         </AntTabs>
         <TabPanel value={value} index={0}>
         <FirstPage/>
@@ -135,10 +139,13 @@ function TabPanel(props) {
         <PeopleSpeak/>
       </TabPanel>
       <TabPanel value={value} index={2}>
-     text
+     <Journey/>
       </TabPanel>
       <TabPanel value={value} index={3}>
-      Somethings
+      <Football/>
+      </TabPanel>
+      <TabPanel value={value} index={4}>
+      <Trips/>
       </TabPanel>
         <Typography  />
         
