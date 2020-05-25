@@ -12,22 +12,67 @@ class PeopleSpeak extends React.Component{
         render() {
          
           return (
-
-            <Carousel>
-            <div>
-                <img src={require('./scene.jpg')} />
-                <p className="legend">Legend 1</p>
-            </div>
+<div>
+            <Carousel >
+         
             <div>
                 <img src={require('./Kari.png')} />
                 <p className="legend">Legend 2</p>
             </div>
+        
+            
             <div>
-                <img src="scene.jpeg" />
-                <p className="legend">Legend 3</p>
+                <img src={require('./img1.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./img2.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./arnav.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./q.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./w.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./e.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            
+            <div>
+                <img src={require('./r.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./t.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./y.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./u.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./i.png')} />
+                <p className="legend">Legend 2</p>
             </div>
         </Carousel>
-            
+        </div>
           )
         }
       }
