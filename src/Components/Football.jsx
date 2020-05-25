@@ -46,6 +46,10 @@ class Football extends React.Component{
                 <p className="legend">Legend 2</p>
             </div>
             <div>
+                <img src={require('./f11.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
                 <img src={require('./f7.png')} />
                 <p className="legend">Legend 2</p>
             </div>

@@ -125,7 +125,8 @@ function TabPanel(props) {
     <div className={classes.root}>
       <div className={classes.demo1}>
       
-        <AntTabs value={value} onChange={handleChange} aria-label="ant example">
+        <AntTabs value={value} onChange={handleChange} 
+        variant="scrollable"aria-label="ant example">
           <AntTab label="Happy Birthdayyyyy!" />
           <AntTab label="Shared Moments" />
           <AntTab label="Office" />

@@ -23,22 +23,21 @@ class PeopleSpeak extends React.Component{
             
             <div>
                 <img src={require('./img1.png')} />
-                <p className="legend">Legend 2</p>
+               
             </div>
             
             <div>
                 <img src={require('./img2.png')} />
-                <p className="legend">Legend 2</p>
+               
             </div>
             
             <div>
                 <img src={require('./arnav.png')} />
-                <p className="legend">Legend 2</p>
             </div>
             
             <div>
                 <img src={require('./q.png')} />
-                <p className="legend">Legend 2</p>
+              
             </div>
             
             <div>
@@ -57,19 +56,51 @@ class PeopleSpeak extends React.Component{
             </div>
             <div>
                 <img src={require('./t.png')} />
-                <p className="legend">Legend 2</p>
+                
             </div>
             <div>
                 <img src={require('./y.png')} />
-                <p className="legend">Legend 2</p>
+                
             </div>
             <div>
                 <img src={require('./u.png')} />
-                <p className="legend">Legend 2</p>
+               
             </div>
             <div>
                 <img src={require('./i.png')} />
+               
+            </div>
+            <div>
+                <img src={require('./mem.png')} />
+             
+            </div>
+            <div>
+                <img src={require('./w1.png')} />
                 <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./w2.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./w3.png')} />
+              
+            </div>
+            <div>
+                <img src={require('./w4.png')} />
+                
+            </div>
+            <div>
+                <img src={require('./w5.png')} />
+                
+            </div>
+            <div>
+                <img src={require('./w6.png')} />
+        
+            </div>
+            <div>
+                <img src={require('./w7.png')} />
+               
             </div>
         </Carousel>
         </div>

@@ -41,7 +41,7 @@ class Trips extends React.Component{
                 <p className="legend">Legend 2</p>
             </div>
             
-           
+            
           
         </Carousel>
         </div>
