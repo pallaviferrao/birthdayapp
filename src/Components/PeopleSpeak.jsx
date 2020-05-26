@@ -75,7 +75,19 @@ class PeopleSpeak extends React.Component{
              
             </div>
             <div>
-                <img src={require('./w1.png')} />
+                <img src={require('./tt2.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./bl.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./mem22.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./mem11.png')} />
                 <p className="legend">Legend 2</p>
             </div>
             <div>

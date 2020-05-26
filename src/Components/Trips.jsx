@@ -41,7 +41,26 @@ class Trips extends React.Component{
                 <p className="legend">Legend 2</p>
             </div>
             
-            
+            <div>
+                <img src={require('./tt1.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./tt2.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./tt3.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./tt4.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
+            <div>
+                <img src={require('./tt5.png')} />
+                <p className="legend">Legend 2</p>
+            </div>
           
         </Carousel>
         </div>
