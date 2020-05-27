@@ -17,49 +17,49 @@ class Trips extends React.Component{
          
             <div>
                 <img src={require('./t1.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
         
             
             <div>
                 <img src={require('./t2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./t3.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./t4.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./t5.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./tt1.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./tt2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./tt3.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./tt4.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./tt5.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
           
         </Carousel>

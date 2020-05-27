@@ -17,7 +17,7 @@ class PeopleSpeak extends React.Component{
          
             <div>
                 <img src={require('./Kari.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
         
             
@@ -42,17 +42,17 @@ class PeopleSpeak extends React.Component{
             
             <div>
                 <img src={require('./w.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./e.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./r.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./t.png')} />
@@ -76,7 +76,7 @@ class PeopleSpeak extends React.Component{
             </div>
             <div>
                 <img src={require('./tt2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./rohan.png')} />
@@ -84,15 +84,43 @@ class PeopleSpeak extends React.Component{
             </div>
             <div>
                 <img src={require('./bl.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./mem22.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./mem11.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a1.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a2.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a3.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a4.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a5.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a6.png')} />
+               <p></p>
+            </div>
+            <div>
+                <img src={require('./a7.png')} />
+               
             </div>
             <div>
                 <img src={require('./origami.png')} />
@@ -100,7 +128,7 @@ class PeopleSpeak extends React.Component{
             </div>
             <div>
                 <img src={require('./w2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./w3.png')} />

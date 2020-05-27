@@ -17,37 +17,38 @@ class Journey extends React.Component{
          
             <div>
                 <img src={require('./o1.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
         
             
             <div>
                 <img src={require('./o2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./o3.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./o4.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
+                
                 <img src={require('./o5.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./o6.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./o11.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
         </Carousel>
         </div>

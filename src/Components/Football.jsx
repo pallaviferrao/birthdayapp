@@ -17,53 +17,53 @@ class Football extends React.Component{
          
             <div>
                 <img src={require('./f1.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
         
             
             <div>
                 <img src={require('./f2.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./f3.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./f4.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./f5.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             
             <div>
                 <img src={require('./f6.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./f11.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./f7.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./f8.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./f9.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
             <div>
                 <img src={require('./f10.png')} />
-                <p className="legend">Legend 2</p>
+               <p></p>
             </div>
           
           
